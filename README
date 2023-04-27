@@ -1,1 +1,16 @@
-## git Branches Test
+# Git Flow Branches Test
+
+
+### Branch List
+- Main : 최종 배포된 소스의 브랜치
+- HotFix : 긴급 수정용 브랜치
+- Release : Main 최종배포전 브랜치 ( 별도 배포전 QA 서버 연동 )
+- Develop : Release 전 개발환경의 브랜치 ( 개발단계의 개발 서버 연동 )
+- Feature/~ : 작업물 단위 브랜치 Feature/프로젝트명
+
+### Git Flow Image
+<!-- ![title](https://user-images.githubusercontent.com/71873643/234743890-89b17e4b-74b2-4424-b09f-b8bbe672addf.png){: width="100%" height="100%"} -->
+
+
+### Branch Rule
+
